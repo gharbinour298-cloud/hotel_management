@@ -18,6 +18,7 @@
     </form>
 
     <p class="hint">Demo account: admin@hotel.com / admin123</p>
+    <p class="hint">Hotel client? <a href="index.php?controller=clientauth&action=login">Go to client login</a></p>
 </div>
 
 <?php require __DIR__ . '/../layouts/footer.php'; ?>
